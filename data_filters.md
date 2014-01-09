@@ -4,7 +4,7 @@ This video tutorial will show you the basics of using filters to explore your da
 ### Data Sources
 Go to your cartodb account and head on up to the common data link and we will import one of our favorite datasets that is the Populated Places dataset from Natural Earth. Click on the Populated Places title and cartodb will begin to import this data into a table on your account.
 
-![Natural Earth Data](http://www.naturalearthdata.com/): data for borders, coastlines, cities, and many other useful collections!
+[Natural Earth Data](http://www.naturalearthdata.com/): data for borders, coastlines, cities, and many other useful collections!
 
 ![img1](img/1.png)
 
