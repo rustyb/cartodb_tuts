@@ -13,7 +13,7 @@ Once that table has been imported head straight over to the map. You are going t
 
 ![img1](img/2.png)
 
-Ok as you can see it’s looking pretty busy! First you should reduce the size of the markers themselves. You can do this by clicking the wizards icon under the  SQL icon. Then you should change the value for the marker size and its stroke to something like the values shown in the images below.
+Ok as you can see it’s looking pretty busy! First you should reduce the size of the markers themselves. You can do this by clicking the **Wizards icon** under the  SQL icon. Then you should change the value for the marker size and its stroke to something like the values shown in the images below.
 
 ![img1](img/3.png)
 
@@ -28,13 +28,13 @@ Ok so you should now go back to your table view by clicking the table tab on the
 
 ![img5](img/5.png)
 
-The way you add filters is by using the data that is contained within your columns. So you are going to use a column which is easy to understand and interpret. For instance you could use the pop_max which is the total population for the metropolitan area of each city in the table.
+The way you add filters is by using the data that is contained within your columns. So you are going to use a column which is easy to understand and interpret. For instance you could use the **pop_max** which is the total population for the metropolitan area of each city in the table.
 
-In order to add a filter you click the filter tray icon from the right menu bar below the SQL icon.
+In order to add a filter you click the **filter tray icon** from the right menu bar below the SQL icon.
 
 ![img6](img/6.png)
 
-When you click this you are presented with the view below. You must select the column you wish to filter by from the drop down. In this case you should scroll through the list until you find the pop_max column.
+When you click this you are presented with the view below. You must select the column you wish to filter by from the drop down. In this case you should scroll through the list until you find the **pop_max** column.
 
 ![img7](img/7.png)
 
@@ -42,7 +42,7 @@ CartoDB will then do a quick lookup on your column and create a simple histogram
 
 ![img8](img/8.png)
 
-So for instance if you wanted to only see those cities with the lowest population levels you will drag the slider so that only the first bar of the distribution is selected as you can see below. As you can see from the numbers above the selection that this has now changed to a value of 0 - 1 million or less.
+So for instance if you wanted to only see those cities with the lowest population levels you will drag the slider so that only the first bar of the distribution is selected as you can see below. As you can see from the numbers above the selection that this has now changed to a value of 0 - 1 million.
 
 ![img9](img/9.png)
 
@@ -58,11 +58,11 @@ Finally you may want to see only those cities which are on the tail of the distr
 
 The map is now less clutter with cities as there are far fewer cities of over a million people.
 
-Ok so now maybe you want to add another filter where you will only show capital cities which have a population larger than 1 million people. To do this you should click the plus sign under the distribution for pop_max and then select the column adm0cap.
+Ok so now maybe you want to add another filter where you will only show capital cities which have a population larger than 1 million people. To do this you should click the plus sign under the distribution for **pop_max** and then select the column **adm0cap**.
 
 ![img12](img/12.png)
 
-This column is the one which tells you whether the city is a capital city or not. One thing you will notice that the column only has two values 1 or 0 (true or false) hence this interesting looking distribution.
+This column is the one which tells you whether the city is a capital city or not. One thing you will notice that the column only has two values **1** or **0** (true or false) hence this interesting looking distribution.
 
 ![img13](img/13.png)
 
@@ -79,7 +79,8 @@ If you go back to the table view your filter from the map will be applied here a
 ![img12](img/17.png)
 
 ### Publish your filtered map
-Ok so now that you have a map which is showing only the world's capitals and is styled in a way you think looks great. It is very easy to publish a visualization of your map to your friends, colleagues and the world. You should click the visualize button on the top right of the page and then published that visualisation you will no longer have to do any map manipulation for your viewer to see only the map of capitas. 
+Ok so now that you have a map which is showing only the world's capitals and is styled in a way you think looks great. It is very easy to publish a visualization of your map to your friends, colleagues and the world. You should click the visualize button on the top right of the page and then published that visualisation you will no longer have to do any map manipulation for your viewer to see only the map of capitas.
+
 Click the green Publish button in the top right of the page. From here you can customize how your published map is presented, including zoom and center, which interface elements to display, toggling layers, social media links, etc. At the bottom you will find a URL to share your Visualization via Twitter, email, or anywhere else. When you share that link, viewers will only be able to explore it on the map, they will not be able to edit any of your data.
 
 ![img12](img/18.png)
