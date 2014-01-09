@@ -1,6 +1,7 @@
 ### Summary
 This video tutorial will show you the basics of using filters to explore your data. Filters can be handy when looking for trends and patterns in your data. You can use them to find out how the values in different columns are spread throughout your data. You can also combine multiple filters to really dig deep into what your data contains. Use the filters directly on your maps to see the results or even share maps of filtered results with others.
-Data Sources
+
+### Data Sources
 Go to your cartodb account and head on up to the common data link and we will import one of our favorite datasets that is the Populated Places dataset from Natural Earth. Click on the Populated Places title and cartodb will begin to import this data into a table on your account.
 
 [Natural Earth Data](http://www.naturalearthdata.com/): data for borders, coastlines, cities, and many other useful collections!
