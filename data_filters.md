@@ -21,16 +21,16 @@ It might also be a good idea to change the basemap so that you can also see the 
 
 ![img1](img/4.png)
 
-Ok now that we can see our map more clearly lets get adding some filters to the map.
+Ok now that we can see the map more clearly, lets get adding some filters to the map.
 
 ### Adding Filters
 Ok so you should now go back to your table view by clicking the table tab on the nav bar at the top.
 
 ![img5](img/5.png)
 
-The way you add filters is by using the data that is contained within your columns. So you are going to use a column which is easy to understand and interpret. For instance you could use the **pop_max** which is the total population for the metropolitan area of each city in the table.
+The way you add filters is by using the data that is contained within your columns. So you are going to use a column which is easy to understand and interpret. For instance you could use the **pop_max** which is the total population for the metropolitan area of each city within the table.
 
-In order to add a filter you click the **filter tray icon** from the right menu bar below the SQL icon.
+In order to add a filter you should click the **filter tray icon** from the right menu bar below the SQL icon.
 
 ![img6](img/6.png)
 
@@ -79,7 +79,7 @@ If you go back to the table view your filter from the map will be applied here a
 ![img12](img/17.png)
 
 ### Publish your filtered map
-Ok so now that you have a map which is showing only the world's capitals and is styled in a way you think looks great. It is very easy to publish a visualization of your map to your friends, colleagues and the world. You should click the visualize button on the top right of the page and then published that visualisation you will no longer have to do any map manipulation for your viewer to see only the map of capitas.
+Ok so now that you have a map which is showing only the world's capitals and is styled in a way you think looks great. It is very easy to publish a visualization of your map to your friends, colleagues and the world. You should click the visualize button on the top right of the page and then published that visualisation you will no longer have to do any map manipulation for your viewer to see only the map of capitals.
 
 Click the green Publish button in the top right of the page. From here you can customize how your published map is presented, including zoom and center, which interface elements to display, toggling layers, social media links, etc. At the bottom you will find a URL to share your Visualization via Twitter, email, or anywhere else. When you share that link, viewers will only be able to explore it on the map, they will not be able to edit any of your data.
 
